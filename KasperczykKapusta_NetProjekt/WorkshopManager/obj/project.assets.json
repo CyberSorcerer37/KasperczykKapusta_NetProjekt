@@ -5198,24 +5198,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\krzys\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\karol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krzys\\Pulpit\\KasperczykKapusta_NetProjekt\\WorkshopManager\\WorkshopManager.csproj",
+      "projectUniqueName": "D:\\karol\\Documents\\KasperczykKapusta_NetProjekt\\KasperczykKapusta_NetProjekt\\WorkshopManager\\WorkshopManager.csproj",
       "projectName": "WorkshopManager",
-      "projectPath": "C:\\Users\\krzys\\Pulpit\\KasperczykKapusta_NetProjekt\\WorkshopManager\\WorkshopManager.csproj",
-      "packagesPath": "C:\\Users\\krzys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krzys\\Pulpit\\KasperczykKapusta_NetProjekt\\WorkshopManager\\obj\\",
+      "projectPath": "D:\\karol\\Documents\\KasperczykKapusta_NetProjekt\\KasperczykKapusta_NetProjekt\\WorkshopManager\\WorkshopManager.csproj",
+      "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
+      "outputPath": "D:\\karol\\Documents\\KasperczykKapusta_NetProjekt\\KasperczykKapusta_NetProjekt\\WorkshopManager\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\krzys\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5298,7 +5293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\karol\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -5307,7 +5302,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Element WorkshopManager zależy od elementu QuestPDF (>= 2024.2.1), ale nie znaleziono elementu QuestPDF 2024.2.1. Najlepsze rozpoznane przybliżone dopasowanie to QuestPDF 2024.3.0.",
+      "message": "WorkshopManager depends on QuestPDF (>= 2024.2.1) but QuestPDF 2024.2.1 was not found. QuestPDF 2024.3.0 was resolved instead.",
       "libraryId": "QuestPDF",
       "targetGraphs": [
         "net8.0"
@@ -5317,7 +5312,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Element WorkshopManager zależy od elementu Riok.Mapperly (>= 0.15.0), ale nie znaleziono elementu Riok.Mapperly 0.15.0. Najlepsze rozpoznane przybliżone dopasowanie to Riok.Mapperly 1.0.0.",
+      "message": "WorkshopManager depends on Riok.Mapperly (>= 0.15.0) but Riok.Mapperly 0.15.0 was not found. Riok.Mapperly 1.0.0 was resolved instead.",
       "libraryId": "Riok.Mapperly",
       "targetGraphs": [
         "net8.0"
